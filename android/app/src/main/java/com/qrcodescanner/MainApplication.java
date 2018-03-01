@@ -1,4 +1,4 @@
-package com.camera;
+package com.qrcodescanner;
 
 import android.app.Application;
 
